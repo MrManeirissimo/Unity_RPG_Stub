@@ -1,0 +1,17 @@
+*.sln
+*.prefab
+*.meta
+*.FBX
+*.png
+*.mat
+*.unity
+*.controller
+*.csproj
+*.suo
+*.asset
+
+Library/*
+ProjectSettings/*
+Temp/*
+
+#!Assets/Scripts/*
